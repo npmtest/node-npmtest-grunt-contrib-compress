@@ -47,8 +47,8 @@
 <tspan x="10" y="714">  │ │ └── ansi-regex@2.1.1 </tspan>
 <tspan x="10" y="730">  │ ├── strip-ansi@3.0.1 </tspan>
 <tspan x="10" y="746">  │ └── supports-color@2.0.0 </tspan>
-<tspan x="10" y="762">  ├─┬ iltorb@1.2.0 </tspan>
-<tspan x="10" y="778">  │ ├── nan@2.6.1 </tspan>
+<tspan x="10" y="762">  ├─┬ iltorb@1.2.1 </tspan>
+<tspan x="10" y="778">  │ ├── nan@2.6.2 </tspan>
 <tspan x="10" y="794">  │ └─┬ node-pre-gyp@0.6.34 </tspan>
 <tspan x="10" y="810">  │   ├─┬ mkdirp@0.5.1 </tspan>
 <tspan x="10" y="826">  │   │ └── minimist@0.0.8 </tspan>
