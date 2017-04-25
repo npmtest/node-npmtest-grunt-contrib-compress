@@ -1,6 +1,6 @@
 # npmtest-grunt-contrib-compress
 
-#### test coverage for  [grunt-contrib-compress (v1.4.1)](https://github.com/gruntjs/grunt-contrib-compress#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-compress.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-compress) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-compress.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-compress)
+#### basic test coverage for  [grunt-contrib-compress (v1.4.1)](https://github.com/gruntjs/grunt-contrib-compress#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-compress.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-compress) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-compress.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-compress)
 
 #### Compress files and folders
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-contrib-compress/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-contrib-compress/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-contrib-compress/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-contrib-compress/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-contrib-compress/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-contrib-compress/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-contrib-compress/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-contrib-compress/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-contrib-compress/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-contrib-compress/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-contrib-compress/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-contrib-compress/build/coverage.html/index.html)
 
@@ -135,7 +135,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.4.1"
+    "version": "1.4.1",
+    "bin": {}
 }
 ```
 
